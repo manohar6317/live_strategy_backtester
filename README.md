@@ -2,12 +2,11 @@
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](./)
 [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
-[![Stars](https://img.shields.io/github/stars/your-repo.svg)](./stargazers)
-[![Issues](https://img.shields.io/github/issues/your-repo.svg)](./issues)
+
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 1. [Project Overview](#project-overview)  
 2. [Features](#features)  
 3. [Installation](#installation)  
