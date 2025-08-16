@@ -68,16 +68,21 @@ The project provides a foundation for both **backtesting historical market data*
 - vcpkg (for dependency management)  
 - Dependencies: `cpprestsdk`, `curl`, `openssl`
 
-### Steps
+## Steps
+
+### Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/your-username/live-strategy-backtester.git
 cd live-strategy-backtester
+```
 
-# Install dependencies using vcpkg
+### Install dependencies using vcpkg
+```bash
 ./vcpkg install cpprestsdk curl openssl
+```
 
-# Build the project
+### Build the project
+```bash
 mkdir build && cd build
 cmake ..
 cmake --build . --config Release
@@ -209,9 +214,9 @@ Planned enhancements for the Live Strategy Backtester:
 
 **Developed by:** Manohar Daripalli  
 
--  Email: [your.email@example.com]  
--  GitHub: [https://github.com/your-username](https://github.com/your-username)  
--  LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+-  Email: [manohar6317@gmail.com]  
+-  GitHub: [click ME!](https://github.com/manohar6317)  
+-  LinkedIn: [click ME!](https://www.linkedin.com/in/d-manohar6317/)  
 
 Feel free to reach out for collaboration, contributions, or discussions on trading systems, C++, and algorithmic strategies! 🚀  
 
