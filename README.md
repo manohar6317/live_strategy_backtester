@@ -19,7 +19,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 The **Live Strategy Backtester** is a modular C++-based trading platform developed as part of an assignment.  
 It implements a **moving average strategy** for BTC/USDT with robust support for **data ingestion, backtesting, live shadow trading, risk management, and performance analysis**.  
 
@@ -27,7 +27,7 @@ The project provides a foundation for both **backtesting historical market data*
 
 ---
 
-## ✨ Features
+## Features
 - **Data Management**
   - Ingest historical and real-time BTC/USDT data (Binance API or local files).  
   - Supports alternative data sources (e.g., sentiment/news).  
@@ -60,7 +60,7 @@ The project provides a foundation for both **backtesting historical market data*
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Prerequisites
 - C++17 or higher  
@@ -86,7 +86,7 @@ cmake --build . --config Release
 ---
 
 
-## 🚀 Usage
+## Usage
 
 ### Running a Backtest
 ```bash
@@ -118,7 +118,7 @@ MovingAverage strategy(2, 3); // short=2, long=3
 
 ---
 
-## 🎥 Demo
+##  Demo
 
 This project includes a **video demonstration** walkthrough. Key highlights:
 
@@ -128,11 +128,11 @@ This project includes a **video demonstration** walkthrough. Key highlights:
 * **Performance Analysis**: Calculates Sharpe, Sortino, and Max Drawdown.
 * **Code Architecture**: Modular, thread-safe, and extensible system design.
 
-📌 [Click here for demo](https://youtu.be/1XtoS_2UhpI)  
+[Click here for demo](https://youtu.be/1XtoS_2UhpI)  
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Programming Language**: C++17
 * **Build System**: CMake
@@ -146,7 +146,7 @@ This project includes a **video demonstration** walkthrough. Key highlights:
 
 ---
 
-## 🤝 Contribution Guidelines
+##  Contribution Guidelines
 
 Contributions are welcome!
 
@@ -169,14 +169,14 @@ Contributions are welcome!
 5. Open a Pull Request
 
 ---
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License**.  
 See the [LICENSE](./LICENSE) file for details.  
 
 ---
 
-## 🗺️ Future Roadmap
+## Future Roadmap
 
 Planned enhancements for the Live Strategy Backtester:
 
@@ -201,17 +201,17 @@ Planned enhancements for the Live Strategy Backtester:
   - Multi-threading support for large datasets.  
   - Reduced latency in live execution pipeline.  
 
-📌 *Target timeline: Q3 2025 – Q2 2026*  
+ *Target timeline: Q3 2025 – Q2 2026*  
 
 ---
 
-## 👤 Author & Contact
+##  Author & Contact
 
 **Developed by:** Manohar Daripalli  
 
-- 📧 Email: [your.email@example.com]  
-- 🌐 GitHub: [https://github.com/your-username](https://github.com/your-username)  
-- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+-  Email: [your.email@example.com]  
+-  GitHub: [https://github.com/your-username](https://github.com/your-username)  
+-  LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
 
 Feel free to reach out for collaboration, contributions, or discussions on trading systems, C++, and algorithmic strategies! 🚀  
 
